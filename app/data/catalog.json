@@ -1,0 +1,30 @@
+{
+  "programs": [
+    {
+      "id": "backend-web-dev",
+      "title": "Backend Web Development",
+      "description": "Master REST APIs, FastAPI, databases, and deployment.",
+      "weeks": [
+        {
+          "id": "week-1",
+          "number": 1,
+          "title": "API Foundations & REST Architecture",
+          "tasks": [
+            {
+              "id": "task-1",
+              "title": "Submission Intake API & Middleware",
+              "description": "Build an intake API with custom request logging middleware.",
+              "status": "published"
+            },
+            {
+              "id": "task-2",
+              "title": "InternTrack Program & Task Catalog API",
+              "description": "Build a read-only REST catalog with pagination and Pydantic models.",
+              "status": "published"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
